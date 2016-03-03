@@ -1,6 +1,6 @@
 <?php
 require "Gapi.php";
-$email='phuong.ltweb@gmail.com';
+$email='phuong567.ltweb@gmail.com';
 $pass='phuongnguyen';
 $profile_id='108568711';
 $ga = new Mylibrary_File_Gapi($emai, $pass);
